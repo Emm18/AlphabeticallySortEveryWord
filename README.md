@@ -1,4 +1,4 @@
-SORT EVERY LETTER BY WORD IN A SENTENCE
+Alphabetically Sort Every Word
 
             Example : 
             Input = CORN IN A CAB
